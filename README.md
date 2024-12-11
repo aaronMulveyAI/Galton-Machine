@@ -1,6 +1,6 @@
 # README
 
-## Project: Distribution Simulations and Galton Board
+## Distribution Simulations and Galton Board
 
 This project is a comprehensive exploration of statistical concepts, focusing on the Beta distribution and the behavior of a Galton board. It combines mathematical derivations, visualizations, and simulations to demonstrate fundamental principles in probability and statistics.
 
