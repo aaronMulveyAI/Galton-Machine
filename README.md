@@ -16,6 +16,8 @@ The project is structured as follows:
    - Developing a custom implementation of the Beta CDF without relying on built-in functions.
 
 2. **Galton Board Simulation**:
+
+![Description GIF 2](https://github.com/aaronMulveyAI/Galton-Machine/quincunx.gif?raw=true)
    - Simulating the distribution of balls in a Galton board.
    - Demonstrating the Central Limit Theorem (CLT) by approximating the binomial distribution as normal for large sample sizes.
    - Visualizing biased and unbiased Bernoulli trials.
