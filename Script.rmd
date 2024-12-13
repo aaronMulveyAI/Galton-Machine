@@ -3,10 +3,10 @@ title: "Assigment 3"
 author: "Aaron Mulvey"
 date: "10/7/2022"
 output:
-  html_document:
-    df_print: paged
   pdf_document:
     latex_engine: xelatex
+  html_document:
+    df_print: paged
 ---
 
 ```{r setup, include=FALSE}
@@ -247,6 +247,7 @@ so we can put in the X like:
 $$X ∼ Normal(\mu, \sigma^2)$$
 ##Lets view the simulation of the Galton Machine
 ```{r}
+
 saveGIF({
   freq = quincunx(balls = 200, col.balls = rainbow(200))
   barplot(freq, space = 0, main = "Distribución Final de las Bolas")
